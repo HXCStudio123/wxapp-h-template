@@ -1,0 +1,6 @@
+/* components/demo-component/demo-component.wxss */
+.wrapper {
+    border: 1px solid;
+    color: blue; }
+    .wrapper .text {
+        color: red; }

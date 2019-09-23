@@ -1,0 +1,9 @@
+<!--components/demo-component/demo-component.wxml-->
+
+<view class="wrapper"> 
+    组件内部：
+    hello,
+    <view class="text">
+        <slot></slot>
+    </view>
+</view>
