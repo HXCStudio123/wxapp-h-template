@@ -1,6 +1,6 @@
 (wx["webpackJsonp"] = wx["webpackJsonp"] || []).push([[3],{
 
-/***/ 20:
+/***/ 2:
 /***/ (function(module, exports) {
 
 var formatTime = function formatTime(date) {
