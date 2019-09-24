@@ -37,6 +37,7 @@ module.exports = {
           {
             loader: 'sass-loader',
             options: {
+              // sass-loader更新后(8.0.0) includePaths属性放在了sassOptions中
               sassOptions: {
                 indentWidth: 4,
                 includePaths: [resolve('src', 'styles'), resolve('src')],
