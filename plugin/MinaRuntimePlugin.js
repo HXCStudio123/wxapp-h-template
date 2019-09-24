@@ -1,6 +1,8 @@
-// plugin/MinaRuntimePlugin.js
-/*
+/**
+ * plugin/MinaRuntimePlugin.js
+ * 抽离模块 runtime
  * copied from https://github.com/tinajs/mina-webpack/blob/master/packages/mina-runtime-webpack-plugin/index.js
+ * create by houxinchao 20190923
  */
 const path = require('path')
 const ensurePosix = require('ensure-posix-path')

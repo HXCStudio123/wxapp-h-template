@@ -1,5 +1,8 @@
-// plugin/MinaWebpackPlugin.js
-// 通过分析 .json 文件，找到所有可能为入口的文件并且添加到webpack（手动配置 entry 文件）
+/**
+ * plugin/MinaWebpackPlugin.js
+ * 通过分析 .json 文件，找到所有可能为入口的文件并且添加到webpack（手动配置 entry 文件）
+ * create by houxinchao 20190923
+ */
  
 const SingleEntryPlugin = require('webpack/lib/SingleEntryPlugin')
 const MultiEntryPlugin = require('webpack/lib/MultiEntryPlugin')

@@ -65,7 +65,7 @@ module.exports = {
     }),
     // 触发renderWithEntry事件，使小程序可以引入 runtime.js文件（在其他web文件引入js，可以使用<script>标签引入，但小程序需要另外配置）
     new MinaRuntimePlugin(),
-    // 文件过大treeshaking ,删除多余方法
+    // lodash文件过大treeshaking ,删除多余方法
     new LodashWebpackPlugin(),
     // 微信小程序有两种构建模式（非web中的开发环境生产环境）
     new webpack.EnvironmentPlugin({
