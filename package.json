@@ -15,7 +15,7 @@
   "dependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "ensure-posix-path": "^1.1.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "required-path": "^1.0.1"
   },
