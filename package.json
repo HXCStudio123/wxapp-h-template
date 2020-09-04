@@ -28,7 +28,7 @@
     "cross-env": "^6.0.0",
     "file-loader": "^4.2.0",
     "lodash-webpack-plugin": "^0.11.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "replace-ext": "^1.0.0",
     "sass-loader": "^8.0.0",
     "webpack": "^4.40.2",
