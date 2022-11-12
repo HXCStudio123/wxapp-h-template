@@ -32,6 +32,6 @@
     "replace-ext": "^1.0.0",
     "sass-loader": "^8.0.0",
     "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   }
 }
